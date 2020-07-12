@@ -7,6 +7,6 @@ Who am I?
 - 🎮 Gamer
 - 🎸 Musician
 
-### [Check my latest game DiscordWars!](https://chrisevans9629.github.io/assets/phaser/discordwars/index.html)
+### [Check out my latest game DiscordWars!](https://chrisevans9629.github.io/assets/phaser/discordwars/index.html)
 
 ![Build README](https://github.com/chrisevans9629/chrisevans9629/workflows/Build%20README/badge.svg)
