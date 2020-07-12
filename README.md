@@ -3,6 +3,32 @@
 
 ![Build README](https://github.com/chrisevans9629/chrisevans9629/workflows/Build%20README/badge.svg)
 
+<div class="row" style="padding: 2%">                    
+    <div class="col-2 p-2">
+        <a href="https://github.com/chrisevans9629"><img style="width: 25px" alt="Github" src="/assets/github.png"></a>
+    </div>
+    <div class="col-2 p-2">
+        <a href="https://chrisevans9629.itch.io"><img style="width: 25px" alt="Itch" src="/assets/itch.png"></a>
+    </div>
+    <div class="col-2 p-2">
+        <a href="https://www.linkedin.com/in/chris-evans-3606ab19b/"><img style="width: 25px" alt="LinkedIn" src="/assets/linkedin.png"></a>
+    </div>
+    <div class="col-2 p-2">
+        <a href="https://www.facebook.com/chrisevans9629"><img style="width: 25px" alt="Facebook" src="/assets/facebook.png"></a>
+    </div>
+    <div class="col-2 p-2">
+        <a href="https://twitter.com/ChrisAlexEvans"><img style="width: 25px" alt="Twitter" src="/assets/twitter.png"></a>
+    </div>
+    <div class="col-2 p-2">
+        <a href="https://soundcloud.com/40daysunder?utm_source=embed&amp;utm_medium=icon"><img style="width: 25px" alt="SoundCloud" src="/assets/soundcloud.png"></a>
+    </div>
+    <div class="col-2 p-2">
+        <a href="https://stackoverflow.com/users/6895913/cevans"><img style="width: 25px" alt="StackOverflow" src="/assets/stackoverflow.png"></a>
+    </div>
+    <div class="col-2 p-2">
+        <a href="https://www.quora.com/profile/Chris-Alexander-Evans"><img style="width: 25px" alt="Quora" src="/assets/quora.png"></a>
+    </div>
+</div>
 <!--
 **chrisevans9629/chrisevans9629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
