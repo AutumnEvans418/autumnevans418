@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello world, looks like you found my profile!  [Be sure to check out my website](https://chrisevans9629.github.io/)
+![](https://github.com/chrisevans9629/chrisevans9629.github.io/blob/master/assets/Group%20271.png)
 <!--
 **chrisevans9629/chrisevans9629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
