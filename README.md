@@ -5,28 +5,28 @@
 
 <div class="row" style="padding: 2%">                    
     <div class="col-2 p-2">
-        <a href="https://github.com/chrisevans9629"><img style="width: 25px" alt="Github" src="/assets/github.png"></a>
+        <a href="https://github.com/chrisevans9629"><img style="width: 25px" alt="Github" src="https://github.com/chrisevans9629/chrisevans9629.github.io/blob/master/assets/github.png"></a>
     </div>
     <div class="col-2 p-2">
-        <a href="https://chrisevans9629.itch.io"><img style="width: 25px" alt="Itch" src="/assets/itch.png"></a>
+        <a href="https://chrisevans9629.itch.io"><img style="width: 25px" alt="Itch" src="https://github.com/chrisevans9629/chrisevans9629.github.io/blob/master/assets/itch.png"></a>
     </div>
     <div class="col-2 p-2">
-        <a href="https://www.linkedin.com/in/chris-evans-3606ab19b/"><img style="width: 25px" alt="LinkedIn" src="/assets/linkedin.png"></a>
+        <a href="https://www.linkedin.com/in/chris-evans-3606ab19b/"><img style="width: 25px" alt="LinkedIn" src="https://github.com/chrisevans9629/chrisevans9629.github.io/blob/master/assets/linkedin.png"></a>
     </div>
     <div class="col-2 p-2">
-        <a href="https://www.facebook.com/chrisevans9629"><img style="width: 25px" alt="Facebook" src="/assets/facebook.png"></a>
+        <a href="https://www.facebook.com/chrisevans9629"><img style="width: 25px" alt="Facebook" src="https://github.com/chrisevans9629/chrisevans9629.github.io/blob/master/assets/facebook.png"></a>
     </div>
     <div class="col-2 p-2">
-        <a href="https://twitter.com/ChrisAlexEvans"><img style="width: 25px" alt="Twitter" src="/assets/twitter.png"></a>
+        <a href="https://twitter.com/ChrisAlexEvans"><img style="width: 25px" alt="Twitter" src="https://github.com/chrisevans9629/chrisevans9629.github.io/blob/master/assets/twitter.png"></a>
     </div>
     <div class="col-2 p-2">
-        <a href="https://soundcloud.com/40daysunder?utm_source=embed&amp;utm_medium=icon"><img style="width: 25px" alt="SoundCloud" src="/assets/soundcloud.png"></a>
+        <a href="https://soundcloud.com/40daysunder?utm_source=embed&amp;utm_medium=icon"><img style="width: 25px" alt="SoundCloud" src="https://github.com/chrisevans9629/chrisevans9629.github.io/blob/master/assets/soundcloud.png"></a>
     </div>
     <div class="col-2 p-2">
-        <a href="https://stackoverflow.com/users/6895913/cevans"><img style="width: 25px" alt="StackOverflow" src="/assets/stackoverflow.png"></a>
+        <a href="https://stackoverflow.com/users/6895913/cevans"><img style="width: 25px" alt="StackOverflow" src="https://github.com/chrisevans9629/chrisevans9629.github.io/blob/master/assets/stackoverflow.png"></a>
     </div>
     <div class="col-2 p-2">
-        <a href="https://www.quora.com/profile/Chris-Alexander-Evans"><img style="width: 25px" alt="Quora" src="/assets/quora.png"></a>
+        <a href="https://www.quora.com/profile/Chris-Alexander-Evans"><img style="width: 25px" alt="Quora" src="https://github.com/chrisevans9629/chrisevans9629.github.io/blob/master/assets/quora.png"></a>
     </div>
 </div>
 <!--
