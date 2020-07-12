@@ -1,5 +1,8 @@
 ### Hello world, looks like you found my profile!  [Be sure to check out my website](https://chrisevans9629.github.io/)
 ![test](https://github.com/chrisevans9629/chrisevans9629/blob/master/assets/images/header.jpg)
+
+![Build README](https://github.com/chrisevans9629/chrisevans9629/workflows/Build%20README/badge.svg)
+
 <!--
 **chrisevans9629/chrisevans9629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
