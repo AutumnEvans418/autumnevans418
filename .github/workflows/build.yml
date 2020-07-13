@@ -18,7 +18,6 @@ jobs:
         run: python build.py
       - name: Commit and push git changes
         run: |
-          git diff
           git config --global user.email "chrisevans9629@gmail.com"
           git config --global user.name "README-bot"
           git add -A
