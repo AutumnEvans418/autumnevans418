@@ -8,14 +8,7 @@ import feedparser
 
 url = 'https://chrisevans9629.github.io/feed.xml'
 
-#result = requests.get(url)
-
 d = feedparser.parse(url)
-
-#print(d.feed.title)
-
-#print(d.entries[:3])
-
 
 def getItems():
     items = sorted(d.entries[:5],key=lambda i: i.updated, reverse=True)
@@ -33,20 +26,7 @@ def changeContent(str,change,start,end):
     result = str[:sindex] + change + str[eindex:]
     return result
 
-
-#print(changeContent('test[[hello!]]','test','[[',']]'))
-
 newContent = changeContent(readmecontent,items, "<!--blog-start-->\n","<!--blog-ends-->\n")
 
-print(newContent)
-
 open(readmeFile,'w').write(newContent)
-
-dataFile = open('data.txt', 'w')
-
-time = datetime.datetime.now().strftime('%d/%m/%y %I:%M %S %p')
-
-dataFile.write('hello world! ' + time)
-
-print(sys.argv)
 
