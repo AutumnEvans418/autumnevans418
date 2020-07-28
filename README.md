@@ -9,11 +9,11 @@ Who am I?
 
 ### My Latest Blogs
 <!--blog-start-->
+- [Building Conway’s Game of Life in 3D - 2020-07-27](https://chrisevans9629.github.io/blog/2020/07/27/game-of-life)
 - [Blazor WebAssembly + Jekyll - 2020-07-16](https://chrisevans9629.github.io/blog/2020/07/16/blazor)
 - [DiscordWars - 2020-06-18](https://chrisevans9629.github.io/blog/2020/06/18/discordwars)
 - [Simulating an Outbreak - 2020-05-14](https://chrisevans9629.github.io/blog/2020/05/14/outbreak-simulator)
 - [Building My Website! - 2020-05-03](https://chrisevans9629.github.io/blog/2020/05/03/my-site-launched)
-- [Plagueforce - 2020-04-19](https://chrisevans9629.github.io/blog/2020/04/19/plagueforce)
 <!--blog-ends-->
 
 ### [Check out my latest game DiscordWars!](https://chrisevans9629.github.io/assets/phaser/discordwars/index.html)
