@@ -15,7 +15,7 @@ Who am I?
 - [Simulating an Outbreak - 2020-05-14](https://chrisevans9629.github.io/blog/2020/05/14/outbreak-simulator)
 - [Building My Website! - 2020-05-03](https://chrisevans9629.github.io/blog/2020/05/03/my-site-launched)
 <!--blog-ends-->
-
+This feed automatically updates using github actions!
 ### [Check out my latest game DiscordWars!](https://chrisevans9629.github.io/assets/phaser/discordwars/index.html)
 
 ![Build README](https://github.com/chrisevans9629/chrisevans9629/workflows/Build%20README/badge.svg)
