@@ -9,11 +9,15 @@ Who am I?
 
 ### My Latest Blogs
 <!--blog-start-->
-- [SCP-610 - 2021-02-01](https://chrisevans9629.github.io/blog/2021/02/01/scp-610)
-- [Blender &amp; 3D Animation - 2021-02-01](https://chrisevans9629.github.io/blog/2021/02/01/learn-blender)
-- [Building Conway’s Game of Life in 3D - 2020-07-27](https://chrisevans9629.github.io/blog/2020/07/27/game-of-life)
-- [Blazor WebAssembly + Jekyll - 2020-07-16](https://chrisevans9629.github.io/blog/2020/07/16/blazor)
-- [DiscordWars - 2020-06-18](https://chrisevans9629.github.io/blog/2020/06/18/discordwars)
+- [Music + Programming = Awesome! - 2025-09-07](https://autumnevans.dev/blog/2025/09/07/strudel)
+
+- [Fitness Fox - 2025-09-02](https://autumnevans.dev/blog/2025/09/02/fitnessfox)
+
+- [Complexify - 2022-08-20](https://autumnevans.dev/blog/2022/08/20/complexify)
+
+- [Chicken Tinder - 2022-07-23](https://autumnevans.dev/blog/2022/07/23/chicken-tinder)
+
+- [SCP-610 - 2021-02-01](https://autumnevans.dev/blog/2021/02/01/scp-610)
 <!--blog-ends-->
 This feed automatically updates using github actions!
 ### [Check out my latest game DiscordWars!](https://chrisevans9629.github.io/assets/phaser/discordwars/index.html)
