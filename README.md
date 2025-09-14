@@ -8,6 +8,8 @@ Who am I?
 
 ### My Latest Blogs
 <!--blog-start-->
+- [Automating GitHub Profile Updates - 2025-09-14](https://autumnevans.dev/blog/2025/09/14/update-profile)
+
 - [Music + Programming = Awesome! - 2025-09-07](https://autumnevans.dev/blog/2025/09/07/strudel)
 
 - [Fitness Fox - 2025-09-02](https://autumnevans.dev/blog/2025/09/02/fitnessfox)
