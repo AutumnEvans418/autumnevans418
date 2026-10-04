@@ -8,6 +8,10 @@ Who am I?
 
 ### My Latest Blogs
 <!--blog-start-->
+- [Budget Simulator - 2026-10-04](https://autumnevans.dev/blog/2026/10/04/budget-simulator)
+
+- [Auto Link Creator - 2026-09-01](https://autumnevans.dev/blog/2026/09/01/auto-link-creator)
+
 - [Automating GitHub Profile Updates - 2025-09-14](https://autumnevans.dev/blog/2025/09/14/update-profile)
 
 - [Music + Programming = Awesome! - 2025-09-07](https://autumnevans.dev/blog/2025/09/07/strudel)
@@ -15,10 +19,6 @@ Who am I?
 - [Fitness Fox - 2025-09-02](https://autumnevans.dev/blog/2025/09/02/fitnessfox)
 
 - [Complexify - 2022-08-20](https://autumnevans.dev/blog/2022/08/20/complexify)
-
-- [Chicken Tinder - 2022-07-23](https://autumnevans.dev/blog/2022/07/23/chicken-tinder)
-
-- [SCP-610 - 2021-02-01](https://autumnevans.dev/blog/2021/02/01/scp-610)
 <!--blog-ends-->
 
 This feed automatically updates using github actions!
